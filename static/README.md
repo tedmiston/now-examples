@@ -8,13 +8,13 @@ In this example we will be deploying a simple "Hello World" example with static 
 
 ```html
 <html>
-	<head>
-		<title>Static Example</title>
-		<link rel="stylesheet" href="styles.css">
-	</head>
-	<body>
-		<marquee direction="right">Hello from Static on Now 2.0!</marquee>
-	</body>
+  <head>
+    <title>Static Example</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <marquee direction="right">Hello from Static on Now 2.0!</marquee>
+  </body>
 </html>
 ```
 
