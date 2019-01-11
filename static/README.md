@@ -22,8 +22,8 @@ In this example we will be deploying a simple "Hello World" example with static 
 
 ```css
 body {
-	background-color: #000000;
-	color: #ffffff;
+  background-color: #000000;
+  color: #ffffff;
 }
 ```
 
