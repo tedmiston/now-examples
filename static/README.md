@@ -41,12 +41,12 @@ In this case we are going to use `@now/html-minifier` to minify the `index.html`
 
 ```json
 {
-    "version": 2,
-	"name": "static",
-	"builds": [
-		{ "src": "index.html", "use": "@now/html-minifier" },
-		{ "src": "styles.css", "use": "@now/html-minifier" }
-  	]
+  "version": 2,
+  "name": "static",
+  "builds": [
+    { "src": "index.html", "use": "@now/html-minifier" },
+    { "src": "styles.css", "use": "@now/html-minifier" }
+  ]
 }
 ```
 
